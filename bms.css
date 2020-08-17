@@ -351,6 +351,7 @@ body {
     font-family: sans-serif;
     display: inline-flex;
     padding: 30px;
+    cursor: pointer;
 }
 
 .carousel-frame {
